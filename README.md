@@ -1,4 +1,7 @@
 geticeweasel
 ============
+![preview](preview.png)
 
-A personalized version of the old geticeweasel.org page
+When geticeweasel.org went down, I took an old version of it from the WayBack Machine and modified it to function as a homepage for my browser. Simply change the links to create your own homepage!
+
+
